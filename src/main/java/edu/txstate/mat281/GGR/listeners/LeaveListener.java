@@ -1,4 +1,6 @@
 package edu.txstate.mat281.GGR.listeners;
 
-public class LeaveListener {
+import org.bukkit.event.Listener;
+
+public class LeaveListener implements Listener {
 }

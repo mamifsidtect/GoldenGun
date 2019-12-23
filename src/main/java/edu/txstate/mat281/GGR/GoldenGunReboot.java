@@ -27,10 +27,10 @@ public class GoldenGunReboot extends JavaPlugin {
         //MAKE SURE TO KEEP THIS RIGHT HERE
         instance = this;
 
-        playerManager = new PlayerManager();
-        listenerManager = new ListenerManager();
         configManager = new ConfigManager();
+        playerManager = new PlayerManager();
         commandManager = new CommandManager();
+        listenerManager = new ListenerManager();
         arenaManager = new ArenaManager();
         gameManager = new GameManager();
 
