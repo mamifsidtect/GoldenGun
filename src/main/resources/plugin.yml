@@ -1,0 +1,5 @@
+name: GoldenGun
+main: edu.txstate.mat281.GGR.GoldenGunReboot
+version: ALPHA-0.0.1
+commands:
+  gg:
